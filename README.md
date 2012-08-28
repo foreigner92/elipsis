@@ -1,4 +1,4 @@
 elipsis
 =======
 
-Streaming Web Server
+Streaming Web Server written in Python with GStreamer.
